@@ -1,4 +1,4 @@
-# Programming Languages Tooling Matrix
+# Programming Language Toolchain Matrix
 
 A personal cheatsheet for programming languages I have encountered, but haven't necessarily used. The purpose of this list is to compare development environments across different languages, specifically gauging how complex they are to configure and how quickly a developer can get them running on a fresh machine.
 
