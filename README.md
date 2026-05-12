@@ -2,6 +2,10 @@
 
 A personal cheatsheet for compiled and interpreted programming languages I have encountered, but haven't necessarily used. The purpose of this list is to compare development environments, toolchain and ecosystems across different languages, specifically gauging how complex they are to configure and how quickly a developer can get them set up and running, start developing and execute or compile a program on a fresh machine (Microsoft Windows prioritized).
 
+```
+v1.202605.1
+```
+
 | Language           | Assemblers, Linkers, Compilers, Interpreters, Loaders | Package Managers                                 | Dependency Managers          | Build Tools                                      | Run Commands                                                            | Internal Runtime                                   | External Runtime Required                                                  | Toolchain Setup Friction            |
 | ------------------ | ----------------------------------------------------- | ------------------------------------------------ | ---------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------- |
 | **ActionScript**   | `mxmlc`, `adl`, `compc`                               | `apm`                                            | -                            | `ant`, `maven`                                   | `mxmlc Main.as`                                                         | `Adobe Flash Player`, `Adobe AIR`                  | `Adobe Flash Player or Ruffle Flash Emulator`, `Adobe AIR`                 | Multimedia / Legacy                 |
